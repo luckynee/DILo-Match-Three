@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/uyee.unity
+  isLoaded: 1
+  isActive: 1
